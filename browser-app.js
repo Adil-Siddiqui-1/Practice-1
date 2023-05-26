@@ -85,3 +85,5 @@ formDOM.addEventListener('submit', async (e) => {
     formAlertDOM.classList.remove('text-success')
   }, 3000)
 })
+
+console.log('First commit in initial branch!')
